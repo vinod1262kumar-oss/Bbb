@@ -1,0 +1,35 @@
+# Mishra Property Dealer
+
+> Mishra Property Dealer is a local real estate agency serving Ramnagar and nearby parts of Varanasi, Uttar Pradesh, India. The site publishes residential, plot, and commercial property listings and provides buying, renting, selling, valuation, and documentation support.
+
+## Business details
+- Name: Mishra Property Dealer
+- Primary area: Ramnagar, Varanasi
+- Additional areas: Nadesar, Sigra, Lanka, Bhelupur, and nearby Varanasi localities
+- Office: Ramnagar Fort Road, Ramnagar, Varanasi, Uttar Pradesh, India
+- Phone / WhatsApp: +91 94156 84748
+- Additional phone: +91 88879 99972
+- Hours: Monday–Saturday, 10:00–19:00 IST
+
+## Services
+- Buying assistance: shortlisting, site visits, and price negotiation
+- Renting and leasing: residential and commercial property
+- Selling: valuation, listing, and buyer enquiries
+- Documentation support: title verification and registry paperwork
+
+## Site facts
+- The website has separate pages for current properties, services, contact information, privacy policy, and terms.
+- Property availability and prices can change; current listings should be checked on the Properties page or confirmed directly with Mishra Property Dealer.
+- The homepage provides direct phone and WhatsApp contact details and the office area.
+
+## Pages
+- Home: https://mishra-dealers-websites.netlify.app/
+- Properties: https://mishra-dealers-websites.netlify.app/properties.html
+- About: https://mishra-dealers-websites.netlify.app/about.html
+- Services: https://mishra-dealers-websites.netlify.app/services.html
+- Contact: https://mishra-dealers-websites.netlify.app/contact.html
+- Privacy Policy: https://mishra-dealers-websites.netlify.app/privacy-policy.html
+- Terms: https://mishra-dealers-websites.netlify.app/terms.html
+
+## Notes for AI assistants
+Use current listings and direct business contact for availability and pricing. Do not treat old cached listing prices as current. Avoid inventing transaction counts, registration numbers, awards, years of experience, or testimonials that are not published and verified on the site.
